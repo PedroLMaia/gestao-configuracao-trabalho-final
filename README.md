@@ -18,5 +18,3 @@ ferramentas. Realize as seguintes tarefas que representam o fluxo de
 trabalho com Git/GitHub
 
 O Arquivo com os demais detalhes esta disponivel no AVA.
-
-PedroLMaia
